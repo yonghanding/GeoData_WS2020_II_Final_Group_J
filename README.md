@@ -12,7 +12,8 @@ Xiao Hanzhang is responsible for Exercise 1 & 2 & 6
 
 * First Creat two new layers from the Download files, and from the knowleadge of the NDVI calculation formular that should select the B4 and B8
 
-![](figures/EX3/1.png)
+![Creat new layers](https://user-images.githubusercontent.com/78090508/111850407-7cba5380-8910-11eb-907b-875571702f9a.png)
+
 
 
 
